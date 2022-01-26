@@ -5,6 +5,7 @@
 *.jpg
 *.txt
 *.mp4
+*.zip
 
 # Models
 *.pkl
