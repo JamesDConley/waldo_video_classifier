@@ -1,8 +1,10 @@
+
 # Data
 *.csv
 *.png
 *.jpg
 *.txt
+*.mp4
 
 # Models
 *.pkl
